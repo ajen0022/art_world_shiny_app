@@ -1,7 +1,7 @@
 
-# ETC5523 Assessment 1
+# Shiny App
 
-This is a **sample** app for the ETC5523 Assessment 1. 
+This is a Shiny app developed after conducting data analysis, showcasing my work and insights.
 
 * The creator of this app is **Amrita Jena**.
 * The data used for this app  is from Tate Art Museum. 
